@@ -157,10 +157,14 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
-    - name: Gateway
-      category: North Coast
-    - name: Backup Gateway
-      category: North Coast
+    - name: BungeeCord
+      category: Minecraft Servers
+    - name: Lobby
+      category: Minecraft Servers
+    - name: SMP
+      category: Minecraft Servers
+    - name: Minetopia
+      category: Minecraft Servers
     - name: API
       description: The guts of the application.
       category: Uncategorized
