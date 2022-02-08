@@ -158,12 +158,16 @@ params:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
     - name: BungeeCord
+      description: De hoofd Server waar alles op draaid
       category: Minecraft Servers
     - name: Lobby
+      description: de lobby van alle servers
       category: Minecraft Servers
     - name: SMP
+      description: een gamemode van globalmc.
       category: Minecraft Servers
     - name: Minetopia
+      description: een gamemode van globalmc.
       category: Minecraft Servers
     - name: API
       description: The guts of the application.
