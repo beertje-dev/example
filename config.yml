@@ -78,7 +78,7 @@ languageCode: en
 # than English! When tested with Lithuanian,
 # it would add unnecesary placeholders to
 # values that were intentionally empty.
-defaultContentLanguage: en
+defaultContentLanguage: nl
 
 # What is the hostname or path to the root?
 # Where is the site hosted?
@@ -169,10 +169,10 @@ params:
     - name: Minetopia
       description: een gamemode van globalmc.
       category: Minecraft Servers
-    - name: API
+    - name: Discord Bot
       description: The guts of the application.
       category: Uncategorized
-    - name: Media Proxy
+    - name: Website
       description: This is the service responsible for serving images, audio, and video. It is reliant on our CDN.
       category: Uncategorized
 
